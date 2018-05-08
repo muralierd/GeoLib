@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GeoLib.Contracts
+namespace GeoLib.Services
 {
     public class Class1
     {
